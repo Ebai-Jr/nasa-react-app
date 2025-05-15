@@ -1,8 +1,7 @@
-# React + Vite
+# Apolo Picture of the Day App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Webapp link: https://apod-app-react.netlify.app/
 
-Currently, two official plugins are available:
+A simple react app displaying the Nasa Picture of the Day with a description and Name of each image.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/Ebai-Jr/nasa-react-app/blob/master/images/Screenshot%202025-05-15%20124720.png
